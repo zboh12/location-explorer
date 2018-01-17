@@ -1,0 +1,2116 @@
+{
+  "_id": "t36_trips_2017_11_4",
+  "_rev": "49-e7ae9e1c815b1e97db13b82b14025e3b",
+  "trips": [
+    {
+      "from": "1-3",
+      "guess": "bicycling",
+      "points": [
+        {
+          "accuracy": 31.235147187199196,
+          "latitude": 40.84472404483132,
+          "longitude": -73.94033211989785,
+          "poiId": "1-3",
+          "provider": "visits",
+          "timestamp": 1509799784
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.84637340257775,
+          "longitude": -73.94015452783604,
+          "poiId": "1509799817.0",
+          "provider": "significantChange",
+          "timestamp": 1509799817
+        }
+      ],
+      "steps": 0,
+      "to": "1509799817.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509799817.0",
+      "guess": "transit",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.84637340257775,
+          "longitude": -73.94015452783604,
+          "poiId": "1509799817.0",
+          "provider": "significantChange",
+          "timestamp": 1509799817
+        },
+        {
+          "accuracy": 76.65626966579694,
+          "latitude": 40.768172554943085,
+          "longitude": -73.98216860696994,
+          "poiId": "2-1",
+          "provider": "visits",
+          "timestamp": 1509802467
+        }
+      ],
+      "steps": 0,
+      "to": "2-1",
+      "truth": "transit"
+    },
+    {
+      "from": "2-1",
+      "guess": "driving",
+      "points": [
+        {
+          "accuracy": 76.65626966579694,
+          "latitude": 40.768172554943085,
+          "longitude": -73.98216860696994,
+          "poiId": "2-1",
+          "provider": "visits",
+          "timestamp": 1509802467
+        },
+        {
+          "accuracy": 59.44490395543754,
+          "invalid_ts": true,
+          "latitude": 40.76817506121999,
+          "longitude": -73.98178376212142,
+          "poiId": "2-1",
+          "provider": "visits",
+          "timestamp": 1509802468
+        },
+        {
+          "accuracy": 76.65626966579694,
+          "latitude": 40.768172554943085,
+          "longitude": -73.98216860696994,
+          "poiId": "2-1",
+          "provider": "visits",
+          "timestamp": 1509805284
+        }
+      ],
+      "steps": 0,
+      "to": "2-1",
+      "truth": "stationary"
+    },
+    {
+      "from": "2-1",
+      "guess": "bicycling",
+      "points": [
+        {
+          "accuracy": 76.65626966579694,
+          "latitude": 40.768172554943085,
+          "longitude": -73.98216860696994,
+          "poiId": "2-1",
+          "provider": "visits",
+          "timestamp": 1509805284
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.76555295047566,
+          "longitude": -73.97827876238016,
+          "provider": "significantChange",
+          "timestamp": 1509805435
+        },
+        {
+          "accuracy": 97.7693786184231,
+          "latitude": 40.76533243919902,
+          "longitude": -73.97777501961446,
+          "poiId": "1509805846.0",
+          "provider": "visits",
+          "timestamp": 1509805846
+        }
+      ],
+      "steps": 447.53333333333336,
+      "to": "1509805846.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509805846.0",
+      "guess": "bicycling",
+      "points": [
+        {
+          "accuracy": 97.7693786184231,
+          "latitude": 40.76533243919902,
+          "longitude": -73.97777501961446,
+          "poiId": "1509805846.0",
+          "provider": "visits",
+          "timestamp": 1509805846
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7643127390539,
+          "longitude": -73.97529747566345,
+          "provider": "significantChange",
+          "timestamp": 1509805874
+        },
+        {
+          "accuracy": 50,
+          "latitude": 40.76216629244458,
+          "longitude": -73.96846513270769,
+          "provider": "significantChange",
+          "timestamp": 1509806119
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.76089428895183,
+          "longitude": -73.9670400453617,
+          "provider": "significantChange",
+          "timestamp": 1509806177
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7600919886371,
+          "longitude": -73.95865867389904,
+          "provider": "significantChange",
+          "timestamp": 1509806555
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7508930257999,
+          "longitude": -73.94051175391454,
+          "provider": "significantChange",
+          "timestamp": 1509806850
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.745624760211356,
+          "longitude": -73.93438781320754,
+          "provider": "significantChange",
+          "timestamp": 1509807089
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.746540945564114,
+          "longitude": -73.93057362636084,
+          "provider": "significantChange",
+          "timestamp": 1509807194
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74566485138123,
+          "longitude": -73.92585945598852,
+          "provider": "significantChange",
+          "timestamp": 1509807337
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74478906685679,
+          "longitude": -73.91755279899371,
+          "provider": "significantChange",
+          "timestamp": 1509807582
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74901731061003,
+          "longitude": -73.91410910096246,
+          "provider": "significantChange",
+          "timestamp": 1509807776
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74860297403561,
+          "longitude": -73.91111622691278,
+          "provider": "significantChange",
+          "timestamp": 1509807829
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74597884842093,
+          "longitude": -73.89909280448266,
+          "poiId": "1509808112.0",
+          "provider": "significantChange",
+          "timestamp": 1509808112
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.744667067310125,
+          "longitude": -73.89772611839265,
+          "provider": "significantChange",
+          "timestamp": 1509808242
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74302915110597,
+          "longitude": -73.89738249895274,
+          "poiId": "1509808423.0",
+          "provider": "significantChange",
+          "timestamp": 1509808423
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73959080658695,
+          "longitude": -73.89442720419954,
+          "provider": "significantChange",
+          "timestamp": 1509808561
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73834277475891,
+          "longitude": -73.88573472735668,
+          "poiId": "1509808699.0",
+          "provider": "significantChange",
+          "timestamp": 1509808699
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7375136790757,
+          "longitude": -73.88353031394507,
+          "provider": "significantChange",
+          "timestamp": 1509808780
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73741454527815,
+          "longitude": -73.88091620631249,
+          "provider": "significantChange",
+          "timestamp": 1509808892
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73578874444908,
+          "longitude": -73.8760851123224,
+          "poiId": "1509808996.0",
+          "provider": "significantChange",
+          "timestamp": 1509808996
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.734737805913355,
+          "longitude": -73.87429869304138,
+          "provider": "significantChange",
+          "timestamp": 1509809077
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73583165031531,
+          "longitude": -73.86873327750553,
+          "poiId": "1509809316.0",
+          "provider": "significantChange",
+          "timestamp": 1509809316
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73735663552557,
+          "longitude": -73.86315082163213,
+          "provider": "significantChange",
+          "timestamp": 1509809466
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73929784213673,
+          "longitude": -73.85806594283699,
+          "provider": "significantChange",
+          "timestamp": 1509809614
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.740975759283906,
+          "longitude": -73.85568095668302,
+          "provider": "significantChange",
+          "timestamp": 1509809696
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74212516365465,
+          "longitude": -73.85365194106991,
+          "poiId": "1509809833.0",
+          "provider": "significantChange",
+          "timestamp": 1509809833
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7411381773544,
+          "longitude": -73.85144808588062,
+          "provider": "significantChange",
+          "timestamp": 1509809895
+        },
+        {
+          "accuracy": 30,
+          "latitude": 40.74460431937197,
+          "longitude": -73.84514831013404,
+          "provider": "significantChange",
+          "timestamp": 1509810161
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74638543085447,
+          "longitude": -73.84628016201471,
+          "provider": "significantChange",
+          "timestamp": 1509810176
+        },
+        {
+          "accuracy": 30,
+          "latitude": 40.74942110575805,
+          "longitude": -73.83744282654844,
+          "provider": "significantChange",
+          "timestamp": 1509810473
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74703825641641,
+          "longitude": -73.83484052991356,
+          "provider": "significantChange",
+          "timestamp": 1509810510
+        },
+        {
+          "accuracy": 66.54101321063001,
+          "latitude": 40.74849760503263,
+          "longitude": -73.83329322206963,
+          "poiId": "1509810642.0",
+          "provider": "significantChange",
+          "timestamp": 1509810642
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7517480937572,
+          "longitude": -73.8318276699644,
+          "provider": "significantChange",
+          "timestamp": 1509810677
+        },
+        {
+          "accuracy": 91.3309743879006,
+          "latitude": 40.74888888532102,
+          "longitude": -73.83312430356028,
+          "provider": "significantChange",
+          "timestamp": 1509810691
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.751759996949325,
+          "longitude": -73.83239892358955,
+          "poiId": "1509810787.0",
+          "provider": "significantChange",
+          "timestamp": 1509810787
+        }
+      ],
+      "steps": 3061.577777777778,
+      "to": "1509808112.0",
+      "truth": "bicycling"
+    },
+    {
+      "from": "1509810787.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.751759996949325,
+          "longitude": -73.83239892358955,
+          "poiId": "1509810787.0",
+          "provider": "significantChange",
+          "timestamp": 1509810787
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7535565569103,
+          "longitude": -73.83273428288854,
+          "provider": "significantChange",
+          "timestamp": 1509810911
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7552187152789,
+          "longitude": -73.8289777473601,
+          "provider": "significantChange",
+          "timestamp": 1509811046
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.757316049426535,
+          "longitude": -73.82909110133848,
+          "provider": "significantChange",
+          "timestamp": 1509811232
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.759471920599005,
+          "longitude": -73.83005158134611,
+          "poiId": "1509811722.0",
+          "provider": "significantChange",
+          "timestamp": 1509811722
+        }
+      ],
+      "steps": 2130.1,
+      "to": "1509811722.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509811722.0",
+      "guess": "invalid",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.759471920599005,
+          "longitude": -73.83005158134611,
+          "poiId": "1509811722.0",
+          "provider": "significantChange",
+          "timestamp": 1509811722
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75724744474238,
+          "longitude": -73.8291325296457,
+          "poiId": "1509813734.0",
+          "provider": "significantChange",
+          "timestamp": 1509813734
+        }
+      ],
+      "steps": 0,
+      "to": "1509813734.0",
+      "truth": "stationary"
+    },
+    {
+      "from": "1509813734.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.75724744474238,
+          "longitude": -73.8291325296457,
+          "poiId": "1509813734.0",
+          "provider": "significantChange",
+          "timestamp": 1509813734
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75589795705697,
+          "longitude": -73.83042604018847,
+          "poiId": "1509814062.0",
+          "provider": "significantChange",
+          "timestamp": 1509814062
+        }
+      ],
+      "steps": 0,
+      "to": "1509814062.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509814062.0",
+      "guess": "bicycling",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.75589795705697,
+          "longitude": -73.83042604018847,
+          "poiId": "1509814062.0",
+          "provider": "significantChange",
+          "timestamp": 1509814062
+        },
+        {
+          "accuracy": 10,
+          "latitude": 40.754675134123076,
+          "longitude": -73.83289480588756,
+          "provider": "significantChange",
+          "timestamp": 1509814141
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75785557966651,
+          "longitude": -73.83422904150736,
+          "provider": "significantChange",
+          "timestamp": 1509814251
+        },
+        {
+          "accuracy": 10,
+          "latitude": 40.758030996695865,
+          "longitude": -73.8370249048563,
+          "poiId": "1509814412.0",
+          "provider": "significantChange",
+          "timestamp": 1509814412
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75665253419765,
+          "longitude": -73.83837934430417,
+          "provider": "significantChange",
+          "timestamp": 1509814460
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.758141568520024,
+          "longitude": -73.84476228849209,
+          "provider": "significantChange",
+          "timestamp": 1509814599
+        },
+        {
+          "accuracy": 73.43565008329028,
+          "latitude": 40.75938687266031,
+          "longitude": -73.84661038905467,
+          "provider": "significantChange",
+          "timestamp": 1509814625
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.753353196642905,
+          "longitude": -73.85241819195986,
+          "provider": "significantChange",
+          "timestamp": 1509814868
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75101252680738,
+          "longitude": -73.85103232329296,
+          "provider": "significantChange",
+          "timestamp": 1509814899
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74875417909496,
+          "longitude": -73.84851844975114,
+          "provider": "significantChange",
+          "timestamp": 1509814978
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74599357727372,
+          "longitude": -73.84712160973444,
+          "provider": "significantChange",
+          "timestamp": 1509815026
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.744138590338196,
+          "longitude": -73.84740885781724,
+          "provider": "significantChange",
+          "timestamp": 1509815064
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.73929424898405,
+          "longitude": -73.84610510323559,
+          "provider": "significantChange",
+          "timestamp": 1509815128
+        },
+        {
+          "accuracy": 10,
+          "latitude": 40.741633018516694,
+          "longitude": -73.84258319630645,
+          "provider": "significantChange",
+          "timestamp": 1509815162
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.739278182671654,
+          "longitude": -73.84556254096883,
+          "poiId": "1509815295.0",
+          "provider": "significantChange",
+          "timestamp": 1509815295
+        },
+        {
+          "accuracy": 30,
+          "latitude": 40.741432188116704,
+          "longitude": -73.84235688492082,
+          "provider": "significantChange",
+          "timestamp": 1509815296
+        },
+        {
+          "accuracy": 71.56692132506907,
+          "latitude": 40.74682999831826,
+          "longitude": -73.84586897336186,
+          "provider": "significantChange",
+          "timestamp": 1509815457
+        },
+        {
+          "accuracy": 73.9931155833674,
+          "latitude": 40.742577157196735,
+          "longitude": -73.85000009333356,
+          "provider": "significantChange",
+          "timestamp": 1509815633
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.74664918085049,
+          "longitude": -73.8532334205458,
+          "provider": "significantChange",
+          "timestamp": 1509816584
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.754009565669826,
+          "longitude": -73.85913489043924,
+          "provider": "significantChange",
+          "timestamp": 1509816910
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75555884423385,
+          "longitude": -73.8678964450937,
+          "provider": "significantChange",
+          "timestamp": 1509817275
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.754911175008715,
+          "longitude": -73.87236886575299,
+          "provider": "significantChange",
+          "timestamp": 1509817333
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.754791684840356,
+          "longitude": -73.87467580957062,
+          "poiId": "1509817457.0",
+          "provider": "significantChange",
+          "timestamp": 1509817457
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75434175282718,
+          "longitude": -73.87961791434265,
+          "provider": "significantChange",
+          "timestamp": 1509817599
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75401551068705,
+          "longitude": -73.88233504920287,
+          "provider": "significantChange",
+          "timestamp": 1509817657
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75350805198782,
+          "longitude": -73.88709517411166,
+          "provider": "significantChange",
+          "timestamp": 1509817789
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75268650437073,
+          "longitude": -73.89515762178432,
+          "provider": "significantChange",
+          "timestamp": 1509817929
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75175624580817,
+          "longitude": -73.90248083250088,
+          "provider": "significantChange",
+          "timestamp": 1509818068
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7543383926346,
+          "longitude": -73.90906529630224,
+          "provider": "significantChange",
+          "timestamp": 1509818210
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75563175961059,
+          "longitude": -73.9117217774298,
+          "poiId": "1509818255.0",
+          "provider": "significantChange",
+          "timestamp": 1509818255
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75489793945252,
+          "longitude": -73.91705358630743,
+          "provider": "significantChange",
+          "timestamp": 1509818439
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75630234696629,
+          "longitude": -73.91999895216364,
+          "provider": "significantChange",
+          "timestamp": 1509818561
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.755639027004065,
+          "longitude": -73.92307030415722,
+          "provider": "significantChange",
+          "timestamp": 1509818687
+        },
+        {
+          "accuracy": 59.381201194690945,
+          "invalid_ts": true,
+          "latitude": 40.75611164847951,
+          "longitude": -73.92415439166044,
+          "poiId": "1509818688.0",
+          "provider": "visits",
+          "timestamp": 1509818688
+        }
+      ],
+      "steps": 206.88888888888889,
+      "to": "1509814412.0",
+      "truth": "bicycling"
+    },
+    {
+      "from": "1509818688.0",
+      "guess": "transit",
+      "points": [
+        {
+          "accuracy": 59.381201194690945,
+          "invalid_ts": true,
+          "latitude": 40.75611164847951,
+          "longitude": -73.92415439166044,
+          "poiId": "1509818688.0",
+          "provider": "visits",
+          "timestamp": 1509818688
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.756524034632506,
+          "longitude": -73.92535318205918,
+          "poiId": "1509822337.0",
+          "provider": "significantChange",
+          "timestamp": 1509822337
+        }
+      ],
+      "steps": 1234.701111111111,
+      "to": "1509822337.0",
+      "truth": "stationary"
+    },
+    {
+      "from": "1509822337.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.756524034632506,
+          "longitude": -73.92535318205918,
+          "poiId": "1509822337.0",
+          "provider": "significantChange",
+          "timestamp": 1509822337
+        },
+        {
+          "accuracy": 48.9155134625323,
+          "latitude": 40.7561554044938,
+          "longitude": -73.9241929794137,
+          "poiId": "1509822415.0",
+          "provider": "visits",
+          "timestamp": 1509822415
+        }
+      ],
+      "steps": 71.41333333333334,
+      "to": "1509822415.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509822415.0",
+      "guess": "bicycling",
+      "points": [
+        {
+          "accuracy": 48.9155134625323,
+          "latitude": 40.7561554044938,
+          "longitude": -73.9241929794137,
+          "poiId": "1509822415.0",
+          "provider": "visits",
+          "timestamp": 1509822415
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75844383262238,
+          "longitude": -73.92917460164806,
+          "provider": "significantChange",
+          "timestamp": 1509822521
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75751253437122,
+          "longitude": -73.93227590658653,
+          "provider": "significantChange",
+          "timestamp": 1509822594
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75168260477294,
+          "longitude": -73.93739438848664,
+          "provider": "significantChange",
+          "timestamp": 1509822776
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75087019532702,
+          "longitude": -73.94052298439846,
+          "poiId": "1509822877.0",
+          "provider": "significantChange",
+          "timestamp": 1509822877
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75138872257256,
+          "longitude": -73.94316606375075,
+          "provider": "significantChange",
+          "timestamp": 1509822959
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75423586104714,
+          "longitude": -73.94853671539275,
+          "provider": "significantChange",
+          "timestamp": 1509823100
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.75969130622967,
+          "longitude": -73.95830288639304,
+          "provider": "significantChange",
+          "timestamp": 1509823287
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.76000491042533,
+          "longitude": -73.96187101080343,
+          "poiId": "1509823414.0",
+          "provider": "significantChange",
+          "timestamp": 1509823414
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.768341833892535,
+          "longitude": -73.9555903099265,
+          "provider": "significantChange",
+          "timestamp": 1509823823
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.77027307354638,
+          "longitude": -73.95419331858223,
+          "poiId": "1509823875.0",
+          "provider": "significantChange",
+          "timestamp": 1509823875
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.77238760588762,
+          "longitude": -73.95273465931379,
+          "provider": "significantChange",
+          "timestamp": 1509824002
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.774333968809835,
+          "longitude": -73.9511197488946,
+          "provider": "significantChange",
+          "timestamp": 1509824110
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.77746211259333,
+          "longitude": -73.94918081589365,
+          "poiId": "1509824253.0",
+          "provider": "significantChange",
+          "timestamp": 1509824253
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.77919129515469,
+          "longitude": -73.94770369501376,
+          "provider": "significantChange",
+          "timestamp": 1509824321
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7830264658346,
+          "longitude": -73.94439282722853,
+          "provider": "significantChange",
+          "timestamp": 1509824475
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.78700696640544,
+          "longitude": -73.9417602344174,
+          "provider": "significantChange",
+          "timestamp": 1509824616
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.789695966278714,
+          "longitude": -73.94028938610457,
+          "poiId": "1509824758.0",
+          "provider": "significantChange",
+          "timestamp": 1509824758
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.79299203553182,
+          "longitude": -73.937442669148,
+          "provider": "significantChange",
+          "timestamp": 1509824856
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.79654861005102,
+          "longitude": -73.93490659797592,
+          "provider": "significantChange",
+          "timestamp": 1509825012
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.79845005935869,
+          "longitude": -73.93361218579302,
+          "poiId": "1509825066.0",
+          "provider": "significantChange",
+          "timestamp": 1509825066
+        },
+        {
+          "accuracy": 10,
+          "latitude": 40.80016640484408,
+          "longitude": -73.93533197238476,
+          "provider": "significantChange",
+          "timestamp": 1509825170
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.79975574411584,
+          "longitude": -73.93848461272134,
+          "provider": "significantChange",
+          "timestamp": 1509825353
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.80065812400375,
+          "longitude": -73.94047552188908,
+          "provider": "significantChange",
+          "timestamp": 1509825442
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.80183831236433,
+          "longitude": -73.94315678256571,
+          "provider": "significantChange",
+          "timestamp": 1509825551
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.80243383401631,
+          "longitude": -73.9451604210929,
+          "poiId": "1509825646.0",
+          "provider": "significantChange",
+          "timestamp": 1509825646
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.80408130568203,
+          "longitude": -73.94848439426525,
+          "provider": "significantChange",
+          "timestamp": 1509825725
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.80545691030249,
+          "longitude": -73.95095669971772,
+          "poiId": "1509825805.0",
+          "provider": "significantChange",
+          "timestamp": 1509825805
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.80814635476214,
+          "longitude": -73.95269677074026,
+          "provider": "significantChange",
+          "timestamp": 1509825927
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.81008002938585,
+          "longitude": -73.9529300952097,
+          "poiId": "1509826067.0",
+          "provider": "significantChange",
+          "timestamp": 1509826067
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.81289122098562,
+          "longitude": -73.95066391180944,
+          "provider": "significantChange",
+          "timestamp": 1509826176
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.816795231132666,
+          "longitude": -73.94714194941668,
+          "provider": "significantChange",
+          "timestamp": 1509826315
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.81976017922764,
+          "longitude": -73.94678112481901,
+          "provider": "significantChange",
+          "timestamp": 1509826357
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.82132654077997,
+          "longitude": -73.94605075685602,
+          "provider": "significantChange",
+          "timestamp": 1509826423
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.824667948578295,
+          "longitude": -73.94430331860195,
+          "poiId": "1509826579.0",
+          "provider": "significantChange",
+          "timestamp": 1509826579
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.82724647831439,
+          "longitude": -73.94267367417825,
+          "provider": "significantChange",
+          "timestamp": 1509826659
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.831215952647135,
+          "longitude": -73.93964131206684,
+          "provider": "significantChange",
+          "timestamp": 1509826809
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.83336107453483,
+          "longitude": -73.93779221147075,
+          "provider": "significantChange",
+          "timestamp": 1509826844
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.840430622657216,
+          "longitude": -73.92937674118859,
+          "provider": "significantChange",
+          "timestamp": 1509827092
+        },
+        {
+          "accuracy": 10,
+          "latitude": 40.84166332151819,
+          "longitude": -73.93138669438095,
+          "provider": "significantChange",
+          "timestamp": 1509827139
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.848263663472,
+          "longitude": -73.9245323539382,
+          "provider": "significantChange",
+          "timestamp": 1509827390
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.858736554504276,
+          "longitude": -73.92292053269526,
+          "provider": "significantChange",
+          "timestamp": 1509827631
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.8615018518277,
+          "longitude": -73.92509421700622,
+          "provider": "significantChange",
+          "timestamp": 1509827861
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.86080967460895,
+          "longitude": -73.92742099376366,
+          "poiId": "1509827926.0",
+          "provider": "significantChange",
+          "timestamp": 1509827926
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.85991634558969,
+          "longitude": -73.92961057132712,
+          "provider": "significantChange",
+          "timestamp": 1509828011
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.85856150365321,
+          "longitude": -73.93262602365577,
+          "provider": "significantChange",
+          "timestamp": 1509828157
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.85643375814251,
+          "longitude": -73.9338733864524,
+          "poiId": "1509828242.0",
+          "provider": "significantChange",
+          "timestamp": 1509828242
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.853951743894484,
+          "longitude": -73.93487399302519,
+          "provider": "significantChange",
+          "timestamp": 1509828416
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.850359549067754,
+          "longitude": -73.93561035343865,
+          "provider": "significantChange",
+          "timestamp": 1509828597
+        },
+        {
+          "accuracy": 38.19948864033412,
+          "latitude": 40.844811407652465,
+          "longitude": -73.94016098792531,
+          "poiId": "1-3",
+          "provider": "visits",
+          "timestamp": 1509828739
+        }
+      ],
+      "steps": 422.9866666666667,
+      "to": "1509822877.0",
+      "truth": "bicycling"
+    },
+    {
+      "from": "1-3",
+      "guess": "bicycling",
+      "points": [
+        {
+          "accuracy": 38.19948864033412,
+          "latitude": 40.844811407652465,
+          "longitude": -73.94016098792531,
+          "poiId": "1-3",
+          "provider": "visits",
+          "timestamp": 1509828739
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.84575182210114,
+          "longitude": -73.94041283331737,
+          "poiId": "1509828786.0",
+          "provider": "significantChange",
+          "timestamp": 1509828786
+        }
+      ],
+      "steps": 229.98666666666668,
+      "to": "1509828786.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509828786.0",
+      "guess": "transit",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.84575182210114,
+          "longitude": -73.94041283331737,
+          "poiId": "1509828786.0",
+          "provider": "significantChange",
+          "timestamp": 1509828786
+        },
+        {
+          "accuracy": 38.19948864033412,
+          "latitude": 40.844811407652465,
+          "longitude": -73.94016098792531,
+          "poiId": "1-3",
+          "provider": "visits",
+          "timestamp": 1509833139
+        }
+      ],
+      "steps": 0,
+      "to": "1-3",
+      "truth": "stationary"
+    },
+    {
+      "from": "1-3",
+      "guess": "bicycling",
+      "points": [
+        {
+          "accuracy": 38.19948864033412,
+          "latitude": 40.844811407652465,
+          "longitude": -73.94016098792531,
+          "poiId": "1-3",
+          "provider": "visits",
+          "timestamp": 1509833139
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.84235649774986,
+          "longitude": -73.94249085668817,
+          "provider": "significantChange",
+          "timestamp": 1509833213
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.83845680286424,
+          "longitude": -73.9436162353871,
+          "poiId": "1509833301.0",
+          "provider": "significantChange",
+          "timestamp": 1509833301
+        }
+      ],
+      "steps": 76.16888888888889,
+      "to": "1509833301.0",
+      "truth": "bicycling"
+    },
+    {
+      "from": "1509833301.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.83845680286424,
+          "longitude": -73.9436162353871,
+          "poiId": "1509833301.0",
+          "provider": "significantChange",
+          "timestamp": 1509833301
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.836429061701146,
+          "longitude": -73.94456460976265,
+          "provider": "significantChange",
+          "timestamp": 1509833479
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.83467041282939,
+          "longitude": -73.94450224948231,
+          "poiId": "1509833620.0",
+          "provider": "significantChange",
+          "timestamp": 1509833620
+        }
+      ],
+      "steps": 276.1122222222222,
+      "to": "1509833620.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509833620.0",
+      "guess": "transit",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.83467041282939,
+          "longitude": -73.94450224948231,
+          "poiId": "1509833620.0",
+          "provider": "significantChange",
+          "timestamp": 1509833620
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.81573993120515,
+          "longitude": -73.95831314056012,
+          "provider": "significantChange",
+          "timestamp": 1509834475
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.81318642097981,
+          "longitude": -73.96016814715792,
+          "provider": "significantChange",
+          "timestamp": 1509834528
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.79416692190982,
+          "longitude": -73.97225536784403,
+          "poiId": "1509834951.0",
+          "provider": "significantChange",
+          "timestamp": 1509834951
+        }
+      ],
+      "steps": 685.101111111111,
+      "to": "1509834951.0",
+      "truth": "transit"
+    },
+    {
+      "from": "1509834951.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.79416692190982,
+          "longitude": -73.97225536784403,
+          "poiId": "1509834951.0",
+          "provider": "significantChange",
+          "timestamp": 1509834951
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.793748901371565,
+          "longitude": -73.96966895138524,
+          "provider": "significantChange",
+          "timestamp": 1509835168
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.792686983566135,
+          "longitude": -73.9672049896569,
+          "provider": "significantChange",
+          "timestamp": 1509835297
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.79062930206654,
+          "longitude": -73.96501865017454,
+          "provider": "significantChange",
+          "timestamp": 1509835536
+        }
+      ],
+      "steps": 1969.4755555555555,
+      "to": "1509835650.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509834951.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.79062930206654,
+          "longitude": -73.96501865017454,
+          "provider": "significantChange",
+          "timestamp": 1509835536
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.7882268903301,
+          "longitude": -73.96695588838966,
+          "poiId": "1509835650.0",
+          "provider": "significantChange",
+          "timestamp": 1509835650
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.78687213334823,
+          "longitude": -73.96812513468547,
+          "provider": "significantChange",
+          "timestamp": 1509835702
+        },
+        {
+          "accuracy": 65.51082179123836,
+          "latitude": 40.78386814540149,
+          "longitude": -73.96958652916412,
+          "provider": "significantChange",
+          "timestamp": 1509835827
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.77788808400992,
+          "longitude": -73.97415007853606,
+          "provider": "significantChange",
+          "timestamp": 1509835976
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.77309350445127,
+          "longitude": -73.9767027856645,
+          "provider": "significantChange",
+          "timestamp": 1509836146
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.77128232348751,
+          "longitude": -73.97820643195035,
+          "provider": "significantChange",
+          "timestamp": 1509836250
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.76828839199079,
+          "longitude": -73.98086877000404,
+          "poiId": "2-1",
+          "provider": "significantChange",
+          "timestamp": 1509836273
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.76703580922089,
+          "longitude": -73.97873665764708,
+          "provider": "significantChange",
+          "timestamp": 1509836368
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.76546326427474,
+          "longitude": -73.97802421993664,
+          "poiId": "1509836744.0",
+          "provider": "significantChange",
+          "timestamp": 1509836744
+        }
+      ],
+      "steps": 1969.4755555555555,
+      "to": "1509835650.0",
+      "truth": "bicycling"
+    },
+    {
+      "from": "1509836744.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.76546326427474,
+          "longitude": -73.97802421993664,
+          "poiId": "1509836744.0",
+          "provider": "significantChange",
+          "timestamp": 1509836744
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.766901861922804,
+          "longitude": -73.97928664025201,
+          "provider": "significantChange",
+          "timestamp": 1509837064
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.767989774225946,
+          "longitude": -73.98089902455678,
+          "poiId": "2-1",
+          "provider": "significantChange",
+          "timestamp": 1509837177
+        }
+      ],
+      "steps": 1519.4622222222222,
+      "to": "2-1",
+      "truth": "walking"
+    },
+    {
+      "from": "2-1",
+      "guess": "stationary",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.767989774225946,
+          "longitude": -73.98089902455678,
+          "poiId": "2-1",
+          "provider": "significantChange",
+          "timestamp": 1509837177
+        },
+        {
+          "accuracy": 77.50045084433486,
+          "latitude": 40.76806352280709,
+          "longitude": -73.98172744138753,
+          "poiId": "2-1",
+          "provider": "visits",
+          "timestamp": 1509837877
+        }
+      ],
+      "steps": 987.7777777777778,
+      "to": "2-1",
+      "truth": "stationary"
+    },
+    {
+      "from": "2-1",
+      "guess": "transit",
+      "points": [
+        {
+          "accuracy": 77.50045084433486,
+          "latitude": 40.76806352280709,
+          "longitude": -73.98172744138753,
+          "poiId": "2-1",
+          "provider": "visits",
+          "timestamp": 1509837877
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.69199909606444,
+          "longitude": -73.98443887995249,
+          "poiId": "1509839522.0",
+          "provider": "significantChange",
+          "timestamp": 1509839522
+        }
+      ],
+      "steps": 0,
+      "to": "1509839522.0",
+      "truth": "transit"
+    },
+    {
+      "from": "1509839522.0",
+      "guess": "invalid",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.69199909606444,
+          "longitude": -73.98443887995249,
+          "poiId": "1509839522.0",
+          "provider": "significantChange",
+          "timestamp": 1509839522
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.69185875893965,
+          "longitude": -73.98338758017354,
+          "provider": "significantChange",
+          "timestamp": 1509839642
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.68921808928386,
+          "longitude": -73.98338327523012,
+          "provider": "significantChange",
+          "timestamp": 1509840719
+        },
+        {
+          "accuracy": 76.63844184658615,
+          "invalid_ts": true,
+          "latitude": 40.688519260670674,
+          "longitude": -73.98383152418623,
+          "provider": "visits",
+          "timestamp": 1509840720
+        },
+        {
+          "accuracy": 76.22579363338397,
+          "latitude": 40.68851459697909,
+          "longitude": -73.98384156103009,
+          "poiId": "1509841038.0",
+          "provider": "visits",
+          "timestamp": 1509841038
+        }
+      ],
+      "steps": 287.09999999999997,
+      "to": "1509841038.0",
+      "truth": "stationary"
+    },
+    {
+      "from": "1509841038.0",
+      "guess": "transit",
+      "points": [
+        {
+          "accuracy": 76.22579363338397,
+          "latitude": 40.68851459697909,
+          "longitude": -73.98384156103009,
+          "poiId": "1509841038.0",
+          "provider": "visits",
+          "timestamp": 1509841038
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.68045192384954,
+          "longitude": -73.94987310411997,
+          "provider": "significantChange",
+          "timestamp": 1509841420
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.68332443121267,
+          "longitude": -73.95599145512959,
+          "poiId": "1509842020.0",
+          "provider": "significantChange",
+          "timestamp": 1509842020
+        }
+      ],
+      "steps": 343.8,
+      "to": "1509842020.0",
+      "truth": "transit"
+    },
+    {
+      "from": "1509842020.0",
+      "guess": "walking",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.68332443121267,
+          "longitude": -73.95599145512959,
+          "poiId": "1509842020.0",
+          "provider": "significantChange",
+          "timestamp": 1509842020
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.68151717121076,
+          "longitude": -73.95575052764431,
+          "provider": "significantChange",
+          "timestamp": 1509842258
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.6796374285322,
+          "longitude": -73.95537838680634,
+          "provider": "significantChange",
+          "timestamp": 1509842430
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.677422719964845,
+          "longitude": -73.95558678723813,
+          "provider": "significantChange",
+          "timestamp": 1509842599
+        },
+        {
+          "accuracy": 65,
+          "latitude": 40.677242209966536,
+          "longitude": -73.95797304966142,
+          "poiId": "1509842783.0",
+          "provider": "significantChange",
+          "timestamp": 1509842783
+        }
+      ],
+      "steps": 0,
+      "to": "1509842783.0",
+      "truth": "walking"
+    },
+    {
+      "from": "1509842783.0",
+      "guess": "stationary",
+      "points": [
+        {
+          "accuracy": 65,
+          "latitude": 40.677242209966536,
+          "longitude": -73.95797304966142,
+          "poiId": "1509842783.0",
+          "provider": "significantChange",
+          "timestamp": 1509842783
+        },
+        {
+          "accuracy": 50.20444740661258,
+          "latitude": 40.677349073474396,
+          "longitude": -73.95788225306876,
+          "poiId": "1509855687.0",
+          "provider": "visits",
+          "timestamp": 1509855687
+        }
+      ],
+      "steps": 0,
+      "to": "1509855687.0",
+      "truth": "stationary"
+    }
+  ],
+  "poiDict": {
+    "1-3": {
+      "address": "286 Fort Washington Ave, New York, NY 10032, USA",
+      "numPoints": 221,
+      "placeId": "ChIJCc315572wokRMhySEIn7cas",
+      "position": [
+        -73.94039511000702,
+        40.84471664634548
+      ],
+      "type": "cluster"
+    },
+    "1509799817.0": {
+      "address": "351 Fort Washington Ave, New York, NY 10033, USA",
+      "numPoints": 1,
+      "placeId": "ChIJl7LNP5_2wokR-K5Ut9hMZ2o",
+      "position": [
+        -73.94015452783604,
+        40.84637340257775
+      ],
+      "type": "firstPoint"
+    },
+    "1509805846.0": {
+      "address": "119 W 57th St, New York, NY 10019, USA",
+      "numPoints": 1,
+      "placeId": "ChIJrcf_RPdYwokRNTQXcn8M7UE",
+      "position": [
+        -73.97777501961446,
+        40.76533243919902
+      ],
+      "type": "changePoint"
+    },
+    "1509808112.0": {
+      "address": "39 65th St, Woodside, NY 11377, USA",
+      "numPoints": 1,
+      "placeId": "EiMzOSA2NXRoIFN0LCBXb29kc2lkZSwgTlkgMTEzNzcsIFVTQQ",
+      "position": [
+        -73.89909280448266,
+        40.74597884842093
+      ],
+      "type": "changePoint"
+    },
+    "1509808423.0": {
+      "address": "6614 Woodside Ave, Flushing, NY 11377, USA",
+      "numPoints": 1,
+      "placeId": "Eio2NjE0IFdvb2RzaWRlIEF2ZSwgV29vZHNpZGUsIE5ZIDExMzc3LCBVU0E",
+      "position": [
+        -73.89738249895274,
+        40.74302915110597
+      ],
+      "type": "changePoint"
+    },
+    "1509808699.0": {
+      "address": "77-20 Queens Blvd, Flushing, NY 11373, USA",
+      "numPoints": 1,
+      "placeId": "ChIJo5ueS1RewokR7yuXnl_JFew",
+      "position": [
+        -73.88573472735668,
+        40.73834277475891
+      ],
+      "type": "changePoint"
+    },
+    "1509808996.0": {
+      "address": "87-03 Queens Blvd, Elmhurst, NY 11373, USA",
+      "numPoints": 1,
+      "placeId": "ChIJPxUkwk1ewokRndcAGUwLtpQ",
+      "position": [
+        -73.8760851123224,
+        40.73578874444908
+      ],
+      "type": "changePoint"
+    },
+    "1509809316.0": {
+      "address": "92-31 57th Ave, Flushing, NY 11373, USA",
+      "numPoints": 1,
+      "placeId": "Eiw5Mi0xLTkyLTMxIDU3dGggQXZlLCBFbG1odXJzdCwgTlkgMTEzNzMsIFVTQQ",
+      "position": [
+        -73.86873327750553,
+        40.73583165031531
+      ],
+      "type": "changePoint"
+    },
+    "1509809833.0": {
+      "address": "10911 54th Ave, Flushing, NY 11368, USA",
+      "numPoints": 1,
+      "placeId": "EiUxMDkxMSA1NHRoIEF2ZSwgQ29yb25hLCBOWSAxMTM2OCwgVVNB",
+      "position": [
+        -73.85365194106991,
+        40.74212516365465
+      ],
+      "type": "changePoint"
+    },
+    "1509810642.0": {
+      "address": "Queens, NY 11355, USA",
+      "numPoints": 1,
+      "placeId": "ChIJmzS_1XNgwokRSLIjW02_k_c",
+      "position": [
+        -73.83329322206963,
+        40.74849760503263
+      ],
+      "type": "changePoint"
+    },
+    "1509810787.0": {
+      "address": "4521 College Point Blvd, Flushing, NY 11355, USA",
+      "numPoints": 1,
+      "placeId": "ChIJyfj05XJgwokR-_R7dYun21o",
+      "position": [
+        -73.83239892358955,
+        40.751759996949325
+      ],
+      "type": "changePoint"
+    },
+    "1509811722.0": {
+      "address": "40-140--40-1340- Main St, Flushing, NY 11354, USA",
+      "numPoints": 1,
+      "placeId": "EjE0MC0xNDAtLTQwLTEzNDAtIE1haW4gU3QsIEZsdXNoaW5nLCBOWSAxMTM1NCwgVVNB",
+      "position": [
+        -73.83005158134611,
+        40.759471920599005
+      ],
+      "type": "firstPoint"
+    },
+    "1509813734.0": {
+      "address": "41-28 Main St, Flushing, NY 11355, USA",
+      "numPoints": 1,
+      "placeId": "EiY0MS0yOCBNYWluIFN0LCBGbHVzaGluZywgTlkgMTEzNTUsIFVTQQ",
+      "position": [
+        -73.8291325296457,
+        40.75724744474238
+      ],
+      "type": "firstPoint"
+    },
+    "1509814062.0": {
+      "address": "133-12 Sanford Ave, Flushing, NY 11355, USA",
+      "numPoints": 1,
+      "placeId": "EjExMzMtMi0xMzMtMTIgU2FuZm9yZCBBdmUsIEZsdXNoaW5nLCBOWSAxMTM1NSwgVVNB",
+      "position": [
+        -73.83042604018847,
+        40.75589795705697
+      ],
+      "type": "changePoint"
+    },
+    "1509814412.0": {
+      "address": "Roosevelt Ave, Flushing, NY 11354, USA",
+      "numPoints": 1,
+      "placeId": "ChIJJRE6kwtgwokRFdQUn8FZeD0",
+      "position": [
+        -73.8370249048563,
+        40.758030996695865
+      ],
+      "type": "changePoint"
+    },
+    "1509815295.0": {
+      "address": "Meadow Lake Rd W & College Point Blvd & Van Wyck Expy, Queens, NY 11375, USA",
+      "numPoints": 1,
+      "placeId": "ChIJbxs5ONRfwokRaRPp7S2ftZk",
+      "position": [
+        -73.84556254096883,
+        40.739278182671654
+      ],
+      "type": "changePoint"
+    },
+    "1509817457.0": {
+      "address": "93-98 34th Ave, Jackson Heights, NY 11372, USA",
+      "numPoints": 1,
+      "placeId": "EjM5My0wLTkzLTk4IDM0dGggQXZlLCBKYWNrc29uIEhlaWdodHMsIE5ZIDExMzcyLCBVU0E",
+      "position": [
+        -73.87467580957062,
+        40.754791684840356
+      ],
+      "type": "changePoint"
+    },
+    "1509818255.0": {
+      "address": "49-1 Broadway, Woodside, NY 11377, USA",
+      "numPoints": 1,
+      "placeId": "Eis0OS0xLTQ5LTcgQnJvYWR3YXksIFdvb2RzaWRlLCBOWSAxMTM3NywgVVNB",
+      "position": [
+        -73.9117217774298,
+        40.75563175961059
+      ],
+      "type": "changePoint"
+    },
+    "1509818688.0": {
+      "address": "36-1 35th Ave, Astoria, NY 11106, USA",
+      "numPoints": 1,
+      "placeId": "EiUzNi0xIDM1dGggQXZlLCBBc3RvcmlhLCBOWSAxMTEwNiwgVVNB",
+      "position": [
+        -73.92415439166044,
+        40.75611164847951
+      ],
+      "type": "firstPoint"
+    },
+    "1509822337.0": {
+      "address": "35-02 35th St, Astoria, NY 11106, USA",
+      "numPoints": 1,
+      "placeId": "ChIJE7UN4S9fwokR-cLX4JKcPgU",
+      "position": [
+        -73.92535318205918,
+        40.756524034632506
+      ],
+      "type": "firstPoint"
+    },
+    "1509822415.0": {
+      "address": "36-1 35th Ave, Astoria, NY 11106, USA",
+      "numPoints": 1,
+      "placeId": "EiUzNi0xIDM1dGggQXZlLCBBc3RvcmlhLCBOWSAxMTEwNiwgVVNB",
+      "position": [
+        -73.9241929794137,
+        40.7561554044938
+      ],
+      "type": "changePoint"
+    },
+    "1509822877.0": {
+      "address": "4224 Crescent St, Long Island City, NY 11101, USA",
+      "numPoints": 1,
+      "placeId": "EjE0MjI0IENyZXNjZW50IFN0LCBMb25nIElzbGFuZCBDaXR5LCBOWSAxMTEwMSwgVVNB",
+      "position": [
+        -73.94052298439846,
+        40.75087019532702
+      ],
+      "type": "changePoint"
+    },
+    "1509823414.0": {
+      "address": "Ed Koch Queensboro Bridge, New York, NY, USA",
+      "numPoints": 1,
+      "placeId": "ChIJb0SOEdxYwokRurnvkZEjCVU",
+      "position": [
+        -73.96187101080343,
+        40.76000491042533
+      ],
+      "type": "changePoint"
+    },
+    "1509823875.0": {
+      "address": "1456 1st Avenue, New York, NY 10021, USA",
+      "numPoints": 1,
+      "placeId": "ChIJ1-slrsBYwokRvcjxfSv2XVg",
+      "position": [
+        -73.95419331858223,
+        40.77027307354638
+      ],
+      "type": "changePoint"
+    },
+    "1509824253.0": {
+      "address": "1665 1st Avenue, New York, NY 10028, USA",
+      "numPoints": 1,
+      "placeId": "ChIJwS6yX7pYwokRLj9rWNga-KM",
+      "position": [
+        -73.94918081589365,
+        40.77746211259333
+      ],
+      "type": "changePoint"
+    },
+    "1509824758.0": {
+      "address": "348 E 106th St, New York, NY 10029, USA",
+      "numPoints": 1,
+      "placeId": "ChIJA3cR6gH2wokRSxR7gM1uypQ",
+      "position": [
+        -73.94028938610457,
+        40.789695966278714
+      ],
+      "type": "changePoint"
+    },
+    "1509825066.0": {
+      "address": "2336 1st Avenue, New York, NY 10035, USA",
+      "numPoints": 1,
+      "placeId": "ChIJkesz2eL1wokR5jqfN8Kqo2Q",
+      "position": [
+        -73.93361218579302,
+        40.79845005935869
+      ],
+      "type": "changePoint"
+    },
+    "1509825646.0": {
+      "address": "1473 5th Ave, New York, NY 10035, USA",
+      "numPoints": 1,
+      "placeId": "EioxNDY5LTE0NzMgNXRoIEF2ZSwgTmV3IFlvcmssIE5ZIDEwMDM1LCBVU0E",
+      "position": [
+        -73.9451604210929,
+        40.80243383401631
+      ],
+      "type": "changePoint"
+    },
+    "1509825805.0": {
+      "address": "1990 Adam Clayton Powell Jr Blvd, New York, NY 10026, USA",
+      "numPoints": 1,
+      "placeId": "ChIJFyDdzhP2wokRL7o9ia8pWSA",
+      "position": [
+        -73.95095669971772,
+        40.80545691030249
+      ],
+      "type": "changePoint"
+    },
+    "1509826067.0": {
+      "address": "342 W 124th St, New York, NY 10027, USA",
+      "numPoints": 1,
+      "placeId": "EiszMDItMzQyIFcgMTI0dGggU3QsIE5ldyBZb3JrLCBOWSAxMDAyNywgVVNB",
+      "position": [
+        -73.9529300952097,
+        40.81008002938585
+      ],
+      "type": "changePoint"
+    },
+    "1509826579.0": {
+      "address": "716 St Nicholas Ave, New York, NY 10031, USA",
+      "numPoints": 1,
+      "placeId": "EjA3MTQtNzE2IFN0IE5pY2hvbGFzIEF2ZSwgTmV3IFlvcmssIE5ZIDEwMDMxLCBVU0E",
+      "position": [
+        -73.94430331860195,
+        40.824667948578295
+      ],
+      "type": "changePoint"
+    },
+    "1509827926.0": {
+      "address": "3 Sickles St, New York, NY 10040, USA",
+      "numPoints": 1,
+      "placeId": "ChIJM4k5hwb0wokRyy9wnvy4TEo",
+      "position": [
+        -73.92742099376366,
+        40.86080967460895
+      ],
+      "type": "changePoint"
+    },
+    "1509828242.0": {
+      "address": "195 Bennett Ave, New York, NY 10040, USA",
+      "numPoints": 1,
+      "placeId": "EiwxNzktMTk1IEJlbm5ldHQgQXZlLCBOZXcgWW9yaywgTlkgMTAwNDAsIFVTQQ",
+      "position": [
+        -73.9338733864524,
+        40.85643375814251
+      ],
+      "type": "changePoint"
+    },
+    "1509828786.0": {
+      "address": "297-335 Fort Washington Ave, New York, NY 10032, USA",
+      "numPoints": 1,
+      "placeId": "EjQyOTctMzM1IEZvcnQgV2FzaGluZ3RvbiBBdmUsIE5ldyBZb3JrLCBOWSAxMDAzMiwgVVNB",
+      "position": [
+        -73.94041283331737,
+        40.84575182210114
+      ],
+      "type": "firstPoint"
+    },
+    "1509833301.0": {
+      "address": "639 W 163rd St, New York, NY 10032, USA",
+      "numPoints": 1,
+      "placeId": "Eis2MTktNjM5IFcgMTYzcmQgU3QsIE5ldyBZb3JrLCBOWSAxMDAzMiwgVVNB",
+      "position": [
+        -73.9436162353871,
+        40.83845680286424
+      ],
+      "type": "changePoint"
+    },
+    "1509833620.0": {
+      "address": "600 W 158th St, New York, NY 10032, USA",
+      "numPoints": 1,
+      "placeId": "Eic2MDAgVyAxNTh0aCBTdCwgTmV3IFlvcmssIE5ZIDEwMDMyLCBVU0E",
+      "position": [
+        -73.94450224948231,
+        40.83467041282939
+      ],
+      "type": "changePoint"
+    },
+    "1509834951.0": {
+      "address": "2541 Broadway, New York, NY 10025, USA",
+      "numPoints": 1,
+      "placeId": "ChIJG2omFSj2wokRr1ZNVpOy9wU",
+      "position": [
+        -73.97225536784403,
+        40.79416692190982
+      ],
+      "type": "changePoint"
+    },
+    "1509835650.0": {
+      "address": "300 Central Park West, New York, NY 10024, USA",
+      "numPoints": 1,
+      "placeId": "ChIJy7LHZZxYwokRSn_iZ1fNscE",
+      "position": [
+        -73.96695588838966,
+        40.7882268903301
+      ],
+      "type": "changePoint"
+    },
+    "1509836744.0": {
+      "address": "134 W 58th St, New York, NY 10019, USA",
+      "numPoints": 1,
+      "placeId": "ChIJLbEeR_dYwokRwVqzOZvinkU",
+      "position": [
+        -73.97802421993664,
+        40.76546326427474
+      ],
+      "type": "firstPoint"
+    },
+    "1509839522.0": {
+      "address": "106 Willoughby St, Brooklyn, NY 11201, USA",
+      "numPoints": 1,
+      "placeId": "ChIJQRsaaktawokR9asa4uhN7-w",
+      "position": [
+        -73.98443887995249,
+        40.69199909606444
+      ],
+      "type": "changePoint"
+    },
+    "1509841038.0": {
+      "address": "34 Bond St, Brooklyn, NY 11201, USA",
+      "numPoints": 1,
+      "placeId": "EiYzNC01MCBCb25kIFN0LCBCcm9va2x5biwgTlkgMTEyMDEsIFVTQQ",
+      "position": [
+        -73.98384156103009,
+        40.68851459697909
+      ],
+      "type": "changePoint"
+    },
+    "1509842020.0": {
+      "address": "140 Putnam Ave, Brooklyn, NY 11216, USA",
+      "numPoints": 1,
+      "placeId": "EisxMzItMTQwIFB1dG5hbSBBdmUsIEJyb29rbHluLCBOWSAxMTIxNiwgVVNB",
+      "position": [
+        -73.95599145512959,
+        40.68332443121267
+      ],
+      "type": "changePoint"
+    },
+    "1509842783.0": {
+      "address": "890 Bergen St, Brooklyn, NY 11238, USA",
+      "numPoints": 1,
+      "placeId": "ChIJX1sTNp9bwokREbcyntc7KTU",
+      "position": [
+        -73.95797304966142,
+        40.677242209966536
+      ],
+      "type": "firstPoint"
+    },
+    "1509855687.0": {
+      "address": "891 Bergen St, Brooklyn, NY 11238, USA",
+      "numPoints": 1,
+      "placeId": "ChIJI6TWyphbwokR4-iocec861Q",
+      "position": [
+        -73.95788225306876,
+        40.677349073474396
+      ],
+      "type": "firstPoint"
+    },
+    "2-1": {
+      "address": "59 Columbus Cir, New York, NY 10019, USA",
+      "numPoints": 33,
+      "placeId": "Eig1OSBDb2x1bWJ1cyBDaXIsIE5ldyBZb3JrLCBOWSAxMDAxOSwgVVNB",
+      "position": [
+        -73.98191898570278,
+        40.768130153812336
+      ],
+      "type": "cluster"
+    }
+  }
+}

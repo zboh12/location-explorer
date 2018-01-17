@@ -1,0 +1,7 @@
+flask
+flask-cors
+utm
+sklearn
+numpy
+requests
+python-dateutil

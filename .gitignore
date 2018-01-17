@@ -1,0 +1,12 @@
+.DS_STORE
+*.log
+.pyc
+
+node_modules
+
+dist
+coverage
+
+yarn.lock
+
+.idea

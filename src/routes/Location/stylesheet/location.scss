@@ -1,0 +1,49 @@
+.map-d3 {
+  width: 100% !important;
+  position: fixed;
+}
+
+.mapboxgl-canvas {
+  position: relative !important;
+}
+
+.inline-element {
+  display: inline !important;
+}
+
+.float-left-element {
+  float: left;
+}
+
+.file-input {
+  width: 100px;
+}
+
+.no-display {
+  display: none;
+}
+
+.control-panel {
+  height: 100vh;
+  background-color: white;
+}
+
+.trash-button {
+  background: transparent !important;
+  margin-top: -10px !important;
+}
+
+.file-text {
+  font-size: 10px !important;
+}
+
+.section {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.tooltip {
+  background-color: white;
+  height: 20px;
+  opacity: 50;
+}
