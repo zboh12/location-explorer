@@ -7,6 +7,7 @@ UI for exploring location data.
 To run:
 1. npm install
 2. npm start
+3. Go to http://localhost:3000/location
 ----
 
 Click on 'Demo 1' or 'Demo 2' to view location data on the map
