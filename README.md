@@ -18,4 +18,4 @@ to find "stay" points (points where the user has stopped - e.g. home, work, gym)
 (points where the user changed mode of transport, determined by change in speed). The json files in the data
 folder have already been processed.
 
-
+changing
