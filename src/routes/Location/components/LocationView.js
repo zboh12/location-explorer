@@ -32,6 +32,7 @@ const LocationView = (props) => (
           viewport={Object.assign({}, props.viewport, { width: 900, height: 640 })}
           locationData={props.locationData}
           pathData={props.pathData}
+
           onChangeViewport={props.onChangeViewport}
           onHover={props.onHover}
           hoverInfo={props.hoverInfo}

@@ -16,6 +16,6 @@ The original location data was collected from a smartphone app and has been proc
 and each trip has been labeled with a mode of transport. Trips are determined using an algorithm
 to find "stay" points (points where the user has stopped - e.g. home, work, gym), and "change" points
 (points where the user changed mode of transport, determined by change in speed). The json files in the data
-folder have already been processed.
+                        folder have already been processed.
 
-changing
+                        changing
